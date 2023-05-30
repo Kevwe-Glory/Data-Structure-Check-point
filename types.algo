@@ -1,0 +1,22 @@
+Problem 1 
+
+Create a function that accept the sum of 2 set
+
+create a variable that accept an empty array 
+
+Use a for loop that iterates each set and pushes it to the empty array
+
+Calculate the sum of all the set pused to the empty array
+
+Return the sum
+
+
+
+
+Problem 2
+
+Create a function takes two vectors `v1` and `v2` as input and returns their dot product
+
+create a function determines if two vectors are orthogonal and equal to zero
+
+use a for of loop to iterate 
